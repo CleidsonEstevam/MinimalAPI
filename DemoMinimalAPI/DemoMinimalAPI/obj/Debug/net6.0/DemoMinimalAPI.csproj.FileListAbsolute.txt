@@ -1,0 +1,7 @@
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.csproj.AssemblyReference.cache
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.AssemblyInfoInputs.cache
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.AssemblyInfo.cs
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.csproj.CoreCompileInputs.cache
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cleidson.silva\Desktop\Minimal\DemoMinimalAPI\DemoMinimalAPI\obj\Debug\net6.0\DemoMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
