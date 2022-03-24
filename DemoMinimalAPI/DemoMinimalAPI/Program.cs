@@ -12,7 +12,7 @@ builder.Services.AddDbContext<MinimalContextDb>(options =>
 
 #endregion
 
-
+//Requests
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -22,6 +22,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+//Rota=>Ação
+app.MapGet("/fornecedor", async (
+    MinimalContextDb context) =>
+    await context.Fornecedores.ToListAsync())
+    .WithName("GetFornecedores")
+    .WithTags("Fornecedores");
 
 app.Run();
 
